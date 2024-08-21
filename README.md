@@ -36,3 +36,4 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+Link to Tableau Piblic - https://public.tableau.com/app/profile/sebastiao.ngombo/viz/MarketingCustomerDemographics/DsB_Customer_Demographics?publish=yes
